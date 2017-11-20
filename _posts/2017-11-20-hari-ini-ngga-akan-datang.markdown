@@ -17,7 +17,7 @@ Buat yang ngerasa belajar di sekolah/kampus aja ngga cukup dan mau terus jadi le
 
 Saya akan mulai dengan nulis salah satu tulisan beberapa waktu lalu, sebagai pengingat diri sendiri, kalo lagi malesyy apapun alasannya
 
-## Hari ini ngga akan datang
+##Hari ini ngga akan datang
 Hari kita ngerasa sempurna
 Hari kita berani mulai membuat usaha
 Hari kita ngerasa hebat dan mulai berbagi,
