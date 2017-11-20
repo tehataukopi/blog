@@ -1,0 +1,38 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/master.css">
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}">
+    <meta name="twitter:site" content="@tehataukopi" />
+    <meta name="twitter:creator" content="@tehataukopi" />
+    <meta name="twitter:image:src" content="/assets/images/logo.png"/>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }} - {{ site.description }}{% endif %}" />
+    <meta property="og:image" content="/assets/images/logo.png"/>
+
+    <script>
+    //https redirect
+      var host = "tehataukopi.club";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+          window.location.protocol = "https";
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109849916-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-109849916-1');
+    </script>
+
+    <!-- ShareThis -->
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5a1243fbd6db8b001271ccd4&product=unknown' async='async'></script>
+</head>
