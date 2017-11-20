@@ -11,13 +11,13 @@ Sekolahkoding.com tempat teman-teman yang mau belajar programming, bikin website
 
 Saya pribadi suka banget belajar dari orang-orang, mau itu online atau offline. Bisa dari buku, dari video youtube atau bacaan artikel. Nah sayang banget kalo ilmunya buat saya sendiri, karena itu saya mau ngejadiin teh atau kopi tempat yang pas buat sharing ke teman-teman dan saling berdiskusi biar kita semua bisa jadi lebih baik
 
-**Untuk siapa Tehataukopi ?**
+## Untuk siapa Tehataukopi ?
 Tehataukopi cocok buat teman-teman yang ngga puas dengan keadaan sekarang. Mau itu diri sendiri atau keadaan di sekitarnya.
 Buat yang ngerasa belajar di sekolah/kampus aja ngga cukup dan mau terus jadi lebih baik setiap hari dan mau mengubah sekitarnya jadi lebih baik.
 
 Saya akan mulai dengan nulis salah satu tulisan beberapa waktu lalu, sebagai pengingat diri sendiri, kalo lagi malesyy apapun alasannya
 
-**Hari ini ngga akan datang**
+##Hari ini ngga akan datang
 Hari kita ngerasa sempurna
 Hari kita berani mulai membuat usaha
 Hari kita ngerasa hebat dan mulai berbagi,
