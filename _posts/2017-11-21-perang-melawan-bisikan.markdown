@@ -1,39 +1,50 @@
 ---
 layout: post
-title:  "Hari ini ngga akan datang"
-date:   2017-11-20 22:00:00 -0600
+title:  "Perang melawan bisikan"
+date:   2017-11-21 08:00:00 -0600
 categories: semangat
 ---
 
-Sebelum mulai perjalanan, jangan sampai asal ngikut ke om-om yang ngga jelas. Kenalan dulu yuk! Saya Hilman Ramadhan, saat ini saya ngerjain sekolahkoding dan WissenSpace.
+Halo Halo Bandung! Makassar, Jayapura dan semua kota yang tidak bisa saya sebutkan satu per satu, semoga sehat seperti para atlet yang sedang berlaga. Masih bersama saya, Hilmen di TehAtauKopi !
 
-Sekolahkoding.com tempat teman-teman yang mau belajar programming, bikin website atau aplikasi. Kalau WissenSpace saya dan teman-teman mau ngumpulin sumber-sumber belajar yang ada di internet. Jadi kalo orang mau belajar sesuatu punya tempat referensi yang pas.
+Di episode ini kita akan ngebahas salah satu musuh terbesar ketika kita mau melakukan hal yang sangat penting, mau itu mulai bisnis, mulai ngedesign, mulai menulis, mulai belajar, mulai ngoding atau apapun itu, musuh ini namanya … “bisikan halus”!
 
-Saya pribadi suka banget belajar dari orang-orang, mau itu online atau offline. Bisa dari buku, dari video youtube atau bacaan artikel. Nah sayang banget kalo ilmunya buat saya sendiri, karena itu saya mau ngejadiin teh atau kopi tempat yang pas buat sharing ke teman-teman dan saling berdiskusi biar kita semua bisa jadi lebih baik
+Ha? “bisikan halus?” Tidak mungkin! :P bagus sekali kalo teman-teman kaget, karena kita akan ngelihat gimana berbahayanya, “bisikan halus” ini kalau kita ngga sadar.
 
-## Untuk siapa Tehataukopi ?
-Tehataukopi cocok buat teman-teman yang ngga puas dengan keadaan sekarang. Mau itu diri sendiri atau keadaan di sekitarnya.
-Buat yang ngerasa belajar di sekolah/kampus aja ngga cukup dan mau terus jadi lebih baik setiap hari dan mau mengubah sekitarnya jadi lebih baik.
+Sering kepikiran pengen mulai bikin bisnis, tapi ngga jadi jadi?
+Mau mulai bikin buku tapi ngga pernah mulai nulis?
+Mau belajar yang baru tapi ngga pernah ada waktu?
+Nah! saya yakin teman-teman pernah kepikiran salah satu hal diatas (atau dalam bentuk yang lain). Mari kita gali apa sih masalah sebenarnya…
 
-Saya akan mulai dengan nulis salah satu tulisan beberapa waktu lalu, sebagai pengingat diri sendiri, kalo lagi malesyy apapun alasannya
+Salah satu buku favorit saya untuk melawan rasa malas dan ngebantu untuk terus ngerjain sesuatu dan saya berharap bisa ngebantu teman-teman juga untuk terus berkarya di bidangnya masing-masing. adalah *The War Of Art - book by Steven Pressfield* 
 
-## Hari ini ngga akan datang
-Hari kita ngerasa sempurna
-Hari kita berani mulai membuat usaha
-Hari kita ngerasa hebat dan mulai berbagi,
-Hari kita ngerasa cukup ngebantu proyek non-profit
-Hari kita ngerasa dewasa dan berhenti bermain berjam-jam
-Hari kita ngerasa suci untuk mulai mengajak kebaikan
-Hari ini ngga akan datang
+Di buku ini Steven menyebutkan “resistance” sebagai musuh yang luar biasa jahat dan akan menghancurkan teman-teman! Resistance ini saya akan artikan sebagai “bisikan halus, yang saya sindir di awal tadi”
 
-Jangan tunggu motivasi untuk mulai bergerak
-Jangan tunggu penerbit untuk mulai menulis
-Jangan tunggu investor untuk mengerjakan yang dimau
-Jangan tunggu pujian untuk mulai berpendapat
-Jangan tunggu panggung untuk mulai berkarya
-Jangan tunggu hari yang ngga akan datang
+Dari tadi ngomongin makhlus halus, eh bisikan halus, apa sih sebenarnya? gue tinggalin juga nih podcastnya! 
+Tenang.. tenang.. peserta sidang diharapkan tidak meninggalkan ruangan :P .. saya akan langsung kasih contoh kongkrit dari bisikan ini..
 
+1. Ketika kita mau mulai buka buku untuk belajar, bisikan akan datang dan bilang “aduuuhhh.. masih jam 7 bos! lo punya waktu seharian, sellow aja!
+2. Saat kita mau mulai bisnis, bisikan akan datang dan bilang 
+“wooo wooo, bentar dulu, lu udah punya kerjaan  yang enak, ngapain nyoba yang aneh-aneh lagi, belum tentu berhasil loh!”
+3. Kalo kita mau mulai ngerjain hal yang penting, bisikan akan datang dan bilang “Heyy!!! socialmedianya belum dicek hari ini! lihat dululah siapa tahu ada yang penting! mungkin mantannya lagi bahagia.. atau ada yang butuh bantuan kita“
+4. Pas waktunya latihan (apapun latihannya) dia akan datang dan bilang “Hmm.. coba pikir deh lo udah latihan berapa lama, kayanya lo ngga bakat di bidang ini.. (cocoknya kerja di air mungkin)”
 
-Itu dia, semoga teman-teman tertarik dan mau sharing di tehataukopi! makasih!
+Jadi.. bisikan ini akan kedengeran di telinga teman-teman tepat sebelum kita mau ngerjain sesuatu yang penting, kerjaan yang bisa jadi ngerubah hidup nasib kita atau bahkan ngerubah banyak orang lain.
+BIsikan ini tahu persis, kapan waktu yang tepat buat mencegah kita mulai ngerjain hal yang kita mau.
+Bisikan ini ada dari kita lahir, dia tumbuh bareng dengan kita! makanya dia tahu luar dalam terutama ketakutan-ketakutan kita, yang akan jadi senjatanya buat nyerang dan ngejatuhin kita. Sayangnya dia seperti saudara kembar tapi yang jahat gitu loh.. kaya pelem-pelem :P
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/358409201&amp;color=%23ee4949&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+Bisikan halus ini seneng kalo kita milih pilihan yang mudah, yang ngga beresiko, dia senang kalo kita nyari jalan teraman dan senang dalam waktu jangka pendek. Dia akan bikin di otak kita seakan-akan yang kita lakuin udah bener, dia akan bilang kita ini emang rata-rata, ngga seperti yang lain, jadi ngga usah sok-sok an. 
+Ini dia kenapa banyak dari kita berakhir jadi rata-rata, sama seperti yang lain, cuma bisa mengidolakan seseorang, tapi ngga mau berkarya sendiri.
+
+Nah! itu dia! “sang penakluk, eh sang bisikan”. musuh yang saya ceritain di awal.
+Gimana? berbahaya ya?  cukup menyeramkan! Terus gimana? 
+tentu saya ngga akan ninggalin teman-teman dalam keadaan depresi dan sekedar tahu musuhnya. 
+Kalau kita mau perang melawan bisikan ini, kita perlu siapkan strategi dan senjatanya!
+
+Ada beberapa tips untuk ngelawan sang bisikan ini:
+1. Jangan nunggu rasa takut hilang, rasa takut akan terus terus ada! Yang perlu dilakukan, bukan menghilangkan, tapi teman-teman belajar jalan bareng atau joget bareng rasa takut ini. 
+Sadar kalau rasa takut ini normal dan semua orang ngerasain, tapi yang tetap ngelangkah bareng rasa takut ini yang akan menang
+2.  Jangan kasih waktu dan tenaga buat bisikan makin kuat. Bikin jadwal yang kongkrit, misalnya jam 7 besok pagi saya akan buka laptop dan mulai nyari ide bisnis, jam 7 tepat nanti, atau sebelumnya, jangan berpikir lagi, langsung duduk dan buka laptopnya, mulai kerjakan apa yang kita janji ke diri sendiri! Semakkin kita berpikir, semakin muncul alasan-alasan yang nanti kita akan bilang “wah bener juga.. ngga usah dulu deh…”
+3. Sadar kalau “bisikan halus” ini benar-benar ada dan ngga suka kalau kita sukses. Bayangin dia seperti musuh yang harus kita lawan setiap hari, setiap ada bisikan datang, langsung bilang “wah sori bro biz.. (bisikan :P) hari ini lo lemah bro.. gue mau ngerjain apa yang gue mau…
+
+Huffff (nafas dulu..)  Itu dia tentang musuh yang kita ngga sadar selama ini jadi penghalang kita buat berkarya,  semoga dengan kenal musuh dan startegi ngalahinnya kita jadi bisa ngerjain apa yang selama ini kita mau kerjakan, mau itu bisnis, seni, non-profit, apapun itu yang udah jadi mimpi teman-teman selama ini, bisa dikerjakan! Jangan lupa share pengalaman teman-teman gimana cara ngalahin bisikan ini buat yang lain! Semoga bermanfaat ! bye bye … !!
