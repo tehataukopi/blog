@@ -1,50 +1,41 @@
 ---
 layout: post
-title:  "Perang melawan bisikan"
-date:   2017-11-21 08:00:00 -0600
+title:  "Bikin apa yang kamu mau"
+date:   2017-11-27 08:00:00 -0600
 categories: semangat
 ---
 
-Halo Halo Bandung! Makassar, Jayapura dan semua kota yang tidak bisa saya sebutkan satu per satu, semoga sehat seperti para atlet yang sedang berlaga. Masih bersama saya, Hilmen di TehAtauKopi !
+Saya punya dua cerita:
+Yang pertama, tentang Derek Sivers, musisi Indie yang mau menjual lagunya. Waktu itu bukan hanya dapetin rekaman yang susah, tapi untuk deal distribusi CD nya juga sama. Dia mulai nyari di internet dimana bisa ngejual CD nya online, sayangnya ngga ada yang mau nerima musisi indie.
 
-Di episode ini kita akan ngebahas salah satu musuh terbesar ketika kita mau melakukan hal yang sangat penting, mau itu mulai bisnis, mulai ngedesign, mulai menulis, mulai belajar, mulai ngoding atau apapun itu, musuh ini namanya … “bisikan halus”!
+Sampai pada titik Derek mutusin untuk bikin toko online cd nya sendiri! (ini sekitar tahun 1997, ngga segampang sekarang tutorial dan sistem pembayaran). Dia belajar dari buku, copy paste dan coba belajar ngoding/programming sendiri, titik paling bahagianya ketika dia berhasil bikin tombol “buy now! “
 
-Ha? “bisikan halus?” Tidak mungkin! :P bagus sekali kalo teman-teman kaget, karena kita akan ngelihat gimana berbahayanya, “bisikan halus” ini kalau kita ngga sadar.
+Orang-orang bisa beli CD musiknya secara online sekarang. Ngga behenti disana, teman-temannya sesama musisi indie ngelihat websitenya, dan mulailah dari satu ke dua ke empat ke 100 dst. Orang-orang mau dijualkan CDnya online. Bukan cuma Derek nyelesaiin masalahnya sendiri tapi semua teman-temannya !  Singkat cerita sekitar 8 tahun Derek berhasil menjual perusahaannya sebesar 22 juta dollar.
 
-Sering kepikiran pengen mulai bikin bisnis, tapi ngga jadi jadi?
-Mau mulai bikin buku tapi ngga pernah mulai nulis?
-Mau belajar yang baru tapi ngga pernah ada waktu?
-Nah! saya yakin teman-teman pernah kepikiran salah satu hal diatas (atau dalam bentuk yang lain). Mari kita gali apa sih masalah sebenarnya…
+Yang Kedua:
+Tahun 2007, Brian Chesky and Joe Gebbia baru pindah dari New York ke San Fransisco. Biaya apartemen mahal, mereka susah untuk bayar tiap bulannya, jadi butuh penghasilan tambahan.
 
-Salah satu buku favorit saya untuk melawan rasa malas dan ngebantu untuk terus ngerjain sesuatu dan saya berharap bisa ngebantu teman-teman juga untuk terus berkarya di bidangnya masing-masing. adalah *The War Of Art - book by Steven Pressfield* 
+Suatu hari ada konferensi design di kotanya dan mereka sadar semua hotel kebooking kalo ada event seperti ini. Muncullah ide untuk beli beberapa airbed (kasur) ditaruh di apartemennya dan disewakan buat yang mau menginap.
 
-Di buku ini Steven menyebutkan “resistance” sebagai musuh yang luar biasa jahat dan akan menghancurkan teman-teman! Resistance ini saya akan artikan sebagai “bisikan halus, yang saya sindir di awal tadi”
+Mereka bikin website, dan tepat sekali, 3 kasurnya terbooking ! Mereka sadar ketika banyak yang nanyain apakah ini tersedia di kota-kota lain, orang orang butuh! Lahirlah AirBnB ! Menjadi pesaing para hotel dan apartemen tanpa punya satu gedung pun. Mereka membuka untuk siapa aja yang mau mendaftarkan tempat kosong dirumahnya untuk disewakan ke orang-orang yang mau menginap (persisi seperti hotel!).
 
-Dari tadi ngomongin makhlus halus, eh bisikan halus, apa sih sebenarnya? gue tinggalin juga nih podcastnya! 
-Tenang.. tenang.. peserta sidang diharapkan tidak meninggalkan ruangan :P .. saya akan langsung kasih contoh kongkrit dari bisikan ini..
+Dua orang ini (atau tiga orang) BIKIN apa yang mereka mau ada, bukan nunggu orang lain bikin, bukan mengeluh pas ngga ada.
 
-1. Ketika kita mau mulai buka buku untuk belajar, bisikan akan datang dan bilang “aduuuhhh.. masih jam 7 bos! lo punya waktu seharian, sellow aja!
-2. Saat kita mau mulai bisnis, bisikan akan datang dan bilang 
-“wooo wooo, bentar dulu, lu udah punya kerjaan  yang enak, ngapain nyoba yang aneh-aneh lagi, belum tentu berhasil loh!”
-3. Kalo kita mau mulai ngerjain hal yang penting, bisikan akan datang dan bilang “Heyy!!! socialmedianya belum dicek hari ini! lihat dululah siapa tahu ada yang penting! mungkin mantannya lagi bahagia.. atau ada yang butuh bantuan kita“
-4. Pas waktunya latihan (apapun latihannya) dia akan datang dan bilang “Hmm.. coba pikir deh lo udah latihan berapa lama, kayanya lo ngga bakat di bidang ini.. (cocoknya kerja di air mungkin)”
+Saya bukan cuma ngomongin bisnis, tapi apapun yang teman-teman butuhkan dan saat itu ngga ada, lihat itu sebagai kesempatan untuk bikin. Bisa bisnis, bisa organisasi non profit, bisa kelompok belajar, apapun itu!
 
-Jadi.. bisikan ini akan kedengeran di telinga teman-teman tepat sebelum kita mau ngerjain sesuatu yang penting, kerjaan yang bisa jadi ngerubah hidup nasib kita atau bahkan ngerubah banyak orang lain.
-BIsikan ini tahu persis, kapan waktu yang tepat buat mencegah kita mulai ngerjain hal yang kita mau.
-Bisikan ini ada dari kita lahir, dia tumbuh bareng dengan kita! makanya dia tahu luar dalam terutama ketakutan-ketakutan kita, yang akan jadi senjatanya buat nyerang dan ngejatuhin kita. Sayangnya dia seperti saudara kembar tapi yang jahat gitu loh.. kaya pelem-pelem :P
+Tentu kalo kita ngomongin bisnis, perlu dipertimbangkan, bukan hanya dipertimbangkan tapi dikongkritkan apakah orang mau bayar apa yang kamu tawarkan, karena kalo ngga, jelas ini ngga bisa bertahan kalau diniatkan sebagai bisnis.
 
-Bisikan halus ini seneng kalo kita milih pilihan yang mudah, yang ngga beresiko, dia senang kalo kita nyari jalan teraman dan senang dalam waktu jangka pendek. Dia akan bikin di otak kita seakan-akan yang kita lakuin udah bener, dia akan bilang kita ini emang rata-rata, ngga seperti yang lain, jadi ngga usah sok-sok an. 
-Ini dia kenapa banyak dari kita berakhir jadi rata-rata, sama seperti yang lain, cuma bisa mengidolakan seseorang, tapi ngga mau berkarya sendiri.
+Tapi kadang, kita mau sesuatu itu exists atau ada, bukan karena uang, tapi memang kita mau itu ada! sesimple itu! 
 
-Nah! itu dia! “sang penakluk, eh sang bisikan”. musuh yang saya ceritain di awal.
-Gimana? berbahaya ya?  cukup menyeramkan! Terus gimana? 
-tentu saya ngga akan ninggalin teman-teman dalam keadaan depresi dan sekedar tahu musuhnya. 
-Kalau kita mau perang melawan bisikan ini, kita perlu siapkan strategi dan senjatanya!
+Ini dia yang saya lakukan dengan tehataukopi, podcast yang teman teman dengarkan sekarang.
+Ngga ada model bisnisnya, tapi saya mau semua ini ada dan orang bisa manfaatkan.
 
-Ada beberapa tips untuk ngelawan sang bisikan ini:
-1. Jangan nunggu rasa takut hilang, rasa takut akan terus terus ada! Yang perlu dilakukan, bukan menghilangkan, tapi teman-teman belajar jalan bareng atau joget bareng rasa takut ini. 
-Sadar kalau rasa takut ini normal dan semua orang ngerasain, tapi yang tetap ngelangkah bareng rasa takut ini yang akan menang
-2.  Jangan kasih waktu dan tenaga buat bisikan makin kuat. Bikin jadwal yang kongkrit, misalnya jam 7 besok pagi saya akan buka laptop dan mulai nyari ide bisnis, jam 7 tepat nanti, atau sebelumnya, jangan berpikir lagi, langsung duduk dan buka laptopnya, mulai kerjakan apa yang kita janji ke diri sendiri! Semakkin kita berpikir, semakin muncul alasan-alasan yang nanti kita akan bilang “wah bener juga.. ngga usah dulu deh…”
-3. Sadar kalau “bisikan halus” ini benar-benar ada dan ngga suka kalau kita sukses. Bayangin dia seperti musuh yang harus kita lawan setiap hari, setiap ada bisikan datang, langsung bilang “wah sori bro biz.. (bisikan :P) hari ini lo lemah bro.. gue mau ngerjain apa yang gue mau…
+Pertanyaannya, apakah teman-teman mau ngerjainnya, mau investasi waktu, tenaga dan kadang uang ? Berani ngga ngambil resiko kalau ini nanti ternyata tidak ada yang pakai, tidak ada yang butuh. Atau lebih memilih nunggu orang lain yang bikin, nunggu ada orang yang menyelesaikan masalahnya.
 
-Huffff (nafas dulu..)  Itu dia tentang musuh yang kita ngga sadar selama ini jadi penghalang kita buat berkarya,  semoga dengan kenal musuh dan startegi ngalahinnya kita jadi bisa ngerjain apa yang selama ini kita mau kerjakan, mau itu bisnis, seni, non-profit, apapun itu yang udah jadi mimpi teman-teman selama ini, bisa dikerjakan! Jangan lupa share pengalaman teman-teman gimana cara ngalahin bisikan ini buat yang lain! Semoga bermanfaat ! bye bye … !!
+Kalau dari saya pribadi, saya ngga suka lama lama penasaran. Daripada nunggu orang, mending saya ngelihat apa yang terjadi kalau saya bikin. Karena jujur ada rasa puas yang luar biasa ketika kita  bikin sesuatu, apalagi tahu yang kita bikin bermanfaat buat orang lain.
+
+Paling ngga teman-teman ngga akan ngira-ngira lagi apa yang akan terjadi, atau sekedar berhayal sama temannya “wah gimana ya kalau ada ini ….” Kita akan puas karena kita tahu apa yang terjadi kalau ini sudah ada.
+
+Kita akan belajar banyak banget, ketika memutsukan bikin sesuatu sendiri (atau dalam tim) banyak hal-hal yang ngga akan didapatkan di buku atau video. Banyak yang berbahaya, bikin takut, semuanya jadi pengalaman luar biasa! Kita ngerjain sesuatu bukan cuma karena mau selesai tapi kita mau lewatin dan belajar di prosesnya, yang jauh lebih penting.
+
+Mengerjakan sesuatu bukan karena disuruh atasan, tapi memang kita mau mengerjakan ini, kita mau lihat yang kita bikin bermanfaat buat banyak orang. Ngga nunggu orang lain, tapi kita yang bikin !
