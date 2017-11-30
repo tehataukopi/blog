@@ -5,6 +5,8 @@ date:   2017-11-30 08:00:00 -0600
 categories: semangat
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KIpLmJqyXoY" frameborder="0" allowfullscreen></iframe>
+
 Problem dengan belajar selama ini:
 -Mulai belajar karena wajib
 -Proses belajar dengan menghafal
